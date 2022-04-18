@@ -8,5 +8,4 @@ import (
 func main() {
 	logrus.Println("第一个mod项目测试")
 	fmt.Println("测试一下")
-	fmt.Println("再次")
 }
